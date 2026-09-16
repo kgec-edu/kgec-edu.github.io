@@ -1,9 +1,9 @@
-# Kalyani Government Engineering College — Static Maintenance Page
+# Kalyani Government Engineering College — GitHub Pages Redirect
 
-This repository hosts the official static maintenance landing page for **Kalyani Government Engineering College (KGEC)** on GitHub Pages.
+This repository hosts a minimal GitHub Pages site that immediately redirects visitors to the official college website: **https://kgec.edu.in**.
 
-- **Primary Domain**: [kgec.edu.in](https://kgec.edu.in)
-- **GitHub Pages Host**: [kgec-edu.github.io](https://kgec-edu.github.io)
+- **Destination**: [https://kgec.edu.in](https://kgec.edu.in)
+- **GitHub Pages Host**: [https://kgec-edu.github.io](https://kgec-edu.github.io)
 
 ### Maintained By
 Department of Computer Science & Engineering, Kalyani Government Engineering College.
